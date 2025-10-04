@@ -1,1 +1,1 @@
-pipevine==0.1.2
+pipevine==0.1.4
